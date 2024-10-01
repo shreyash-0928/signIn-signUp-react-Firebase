@@ -23,3 +23,7 @@ This project is a **Sign In/Sign Up** page built with **React** and **Firebase A
 
 ### Sign In Page
 ![Sign In Page](./src/assets/Screenshot2.png)
+![Sign In Page](./src/assets/Screenshot3.png)
+
+### Database
+![Firebase](./src/assets/Screenshot4.png)
